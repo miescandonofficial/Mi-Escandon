@@ -1,0 +1,2 @@
+promotion_id,business_id,title,description,image,url,start_date,end_date,active,display_order
+promo001,foodie_001,Promoción de prueba,Contenido de demostración para probar las promociones.,,https://somosenlace.app/,2026-08-20,2026-12-31,True,1

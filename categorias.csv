@@ -1,0 +1,9 @@
+category_id,name,icon,description,display_order,active
+foodie,Foodie Time,food,Para cuando traes hambre.,1,True
+coffee,Coffee Time,coffee,Un café siempre cae bien.,2,True
+love,Love Zone,love,Para compartir algo especial.,3,True
+style,Style & Care,style,Date un gusto.,4,True
+animal,Animal Care,paw,Porque ellos también son vecinos.,5,True
+shopping,Shopping,shopping,Encuentra algo que te guste.,6,True
+night,Night Life,moon,Para cuando cae la noche.,7,True
+services,Local Services,tools,Servicios útiles cerca de ti.,8,True
