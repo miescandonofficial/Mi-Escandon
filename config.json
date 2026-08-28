@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "Mi Escandón",
+    "zone": "Escandón, CDMX"
+  },
+  "data": {
+    "github_repo": "https://github.com/miescandonofficial/Mi-Escandon",
+    "branch": "main"
+  },
+  "assets": {
+    "business_images_path": "images/businesses/",
+    "category_images_path": "images/categories/",
+    "hero_images_path": "images/hero/",
+    "hero_videos_path": "videos/hero/"
+  },
+  "behavior": {
+    "hero_video_fallback_to_image": true,
+    "dynamic_categories": true
+  }
+}
